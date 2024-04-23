@@ -2,7 +2,7 @@
 
 23.4 bis 25.6.2024
 
-### Grob-Planung
+## Grob-Planung
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 Was wäre ein geeignetes Projekt für diese LP5?
