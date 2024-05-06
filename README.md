@@ -21,14 +21,14 @@ Was wäre ein geeignetes Projekt für diese LP5?
 Heute war ein sehr anstrengender Tag, ich musste ziemlich viel für das Modul 106 machen, denn ich war ein bisschen hintendran. Ich habe mich dafür entschieden, einen grossen teil im heutigen Lernatelierblock zu machen. Wie man sieht war das eine gute Entscheidung, denn ich habe viele Arbeitspackete erledigt und habe viel Arebteit von den Schulter genommen. (56Wörter)
 
 ## 30.4.2024
-- [ ]Html einstieg
-- [ ]M 187 Ergonmie-Dokument lösen
-- [ ]Eine Zusammenfassung schreiben für die LB M187 machen
+- [ ] Html einstieg
+- [ ] M 187 Ergonmie-Dokument lösen
+- [ ] Eine Zusammenfassung schreiben für die LB M187 machen
 
 ✍️ Heute habe ich... (50-100 Wörter) Ich war Krank
 
 ## 07.4.2024
-- [ ]Html einstieg
+- [ ] Html einstieg
 - [ ] Arbeitsauftrag für die Kanti lösen
 - [ ]
 
