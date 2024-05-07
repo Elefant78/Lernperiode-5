@@ -28,8 +28,15 @@ Heute war ein sehr anstrengender Tag, ich musste ziemlich viel für das Modul 10
 ✍️ Heute habe ich... (50-100 Wörter) Ich war Krank
 
 ## 07.4.2024
-- [ ] Html einstieg heisst 7701
-- [ ] Arbeitsauftrag für die Kanti lösen
-- [ ] Html 7702 
+- [x] Html einstieg heisst 7701
+- [x] Arbeitsauftrag für die Kanti lösen
+- [x] Html 7702
+
+Heute habe ich meine Arbeitspakete super lösen können. Diese Lernatelierlektion habe ich einen Einstieg in Html gemacht und habe alle Pakete erledigt. Den KSBA auftrag war sehr wichtig zu machen, es war ein Text in Deutsch zu schreibe, der benotet wird. Ich hoffe ich kann meine Arbeitsmotivation weiterhin so hoch halten
+
+## 14.04.24
+- [ ] in get cancelled taycon Ufo erreichen 60 min
+- [ ] HTML 7703
+- [ ] HTML 7704
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
