@@ -11,7 +11,7 @@ Welche davon sind besonders wichtig? Ich denke SQL ist wichtiger als Paradigm, d
 
 Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 Was wäre ein geeignetes Projekt für diese LP5?
-## 23.4.2024
+## 23.04.2024
 - [x] M106 Aufgabe 2418
 - [x] M106 Aufgabe 2417
 - [x] M106 Aufgabe 2415
@@ -20,23 +20,35 @@ Was wäre ein geeignetes Projekt für diese LP5?
 
 Heute war ein sehr anstrengender Tag, ich musste ziemlich viel für das Modul 106 machen, denn ich war ein bisschen hintendran. Ich habe mich dafür entschieden, einen grossen teil im heutigen Lernatelierblock zu machen. Wie man sieht war das eine gute Entscheidung, denn ich habe viele Arbeitspackete erledigt und habe viel Arebteit von den Schulter genommen. (56Wörter)
 
-## 30.4.2024
+## 30.04.2024
 - [ ] Html einstieg
 - [ ] M 187 Ergonmie-Dokument lösen
 - [ ] Eine Zusammenfassung schreiben für die LB M187 machen
 
 ✍️ Heute habe ich... (50-100 Wörter) Ich war Krank
 
-## 07.4.2024
+## 07.05.2024
 - [x] Html einstieg heisst 7701
 - [x] Arbeitsauftrag für die Kanti lösen
 - [x] Html 7702
 
 Heute habe ich meine Arbeitspakete super lösen können. Diese Lernatelierlektion habe ich einen Einstieg in Html gemacht und habe alle Pakete erledigt. Den KSBA auftrag war sehr wichtig zu machen, es war ein Text in Deutsch zu schreibe, der benotet wird. Ich hoffe ich kann meine Arbeitsmotivation weiterhin so hoch halten
 
-## 14.04.24
+## 14.05.24
 - [ ] in get cancelled taycon Ufo erreichen 60 min
 - [ ] HTML 7703
 - [ ] HTML 7704
+- [ ] HTML eine Ronaldo Bild einfügen mit Text
+
+Mich hat leider das Fieber erwischt.
+
+## 21.05.24
+
+- [ ] in get cancelled taycon Ufo erreichen 60 min
+- [ ] HTML 7703
+- [ ] HTML 7704
+- [ ] HTML eine Ronaldobild einfügen mit Text
+
+Diese Woche habe ich meine Arbeitzeit aufgeteilt, habe jedoch vergessen, dass Github zumachen. Das ist nicht gut, vorallem für meinen Partner der mein Github bewerten soll. Ich habe viele Aufträge erledigen können. Der get cancelled Taycon ist eine Metapher, für ein HTML-Lernziel das ich habe. Ich habe einen kleinen HTML Code geschrieben, der sehr einfach ist, jedoch gut die Grundlagen repetiert.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
