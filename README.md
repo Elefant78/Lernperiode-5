@@ -25,7 +25,7 @@ Heute war ein sehr anstrengender Tag, ich musste ziemlich viel für das Modul 10
 - [ ] M 187 Ergonmie-Dokument lösen
 - [ ] Eine Zusammenfassung schreiben für die LB M187 machen
 
-✍️ Heute habe ich... (50-100 Wörter) Ich war Krank
+Ich war Krank
 
 ## 07.05.2024
 - [x] Html einstieg heisst 7701
@@ -50,5 +50,14 @@ Mich hat leider das Fieber erwischt.
 - [ ] HTML eine Ronaldobild einfügen mit Text
 
 Diese Woche habe ich meine Arbeitzeit aufgeteilt, habe jedoch vergessen, dass Github zumachen. Das ist nicht gut, vorallem für meinen Partner der mein Github bewerten soll. Ich habe viele Aufträge erledigen können. Der get cancelled Taycon ist eine Metapher, für ein HTML-Lernziel das ich habe. Ich habe einen kleinen HTML Code geschrieben, der sehr einfach ist, jedoch gut die Grundlagen repetiert.
+
+## 28.05.24
+
+- [ ] Lizenzbedinungen für Bilder lernen -> Notizen
+- [ ] HTML Navigation in ronaldo Website machen https://youtu.be/JcMIS_fmCmM?feature=shared
+- [ ] Ein Website-Projekt ausdenken und anfangen
+- [ ] Lernen wie man eine Website online stellt
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
