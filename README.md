@@ -64,5 +64,9 @@ Diese Woche habe ich meine Arbeitzeit aufgeteilt, habe jedoch vergessen, dass Gi
 
 Ich habe gelernt wie man ein Hamburger-Menu in HTML/CSS macht. Das hilft mir sehr bei weiteren HTML-Projekte, die ich machen werde. Ich habe ausserdem gut verstanden wie man Grid benuntz.
 
+Ich habe gelernt wie in einer Gruppe gut arbeitet und was es heisst zusammnen zu Programmieren.
+
+Ich würde gerne nächstes jahr
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
